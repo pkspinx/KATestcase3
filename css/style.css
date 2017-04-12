@@ -628,7 +628,9 @@ ul.breadcrumb li:last-child a { color: #FFF; }
 .slide-ap-down { cursor: pointer; }
 .myacnt-page.change-pass-page .inner-hd h1 { margin-top: 0px; }
 /*added css while developing iste*/
-.dtl-bed-hd { float: left; width: 100%; margin: 0px 0px 15px; padding: 0px 0px 12px; border-bottom: 1px solid #e72330; }
+/*Changes by Bhavik at 11:32 Start*/
+.dtl-bed-hd { float: left; width: 100%; margin: 0px 0px 15px; padding: 0px 0px 12px; border-bottom: 1px solid #e72330; color:red; }
+/*Changes by Bhavik at 11:32 End*/
 .dtl-bed-hd a { display: block; float: right; font-size: 12px; line-height: 32px; text-decoration: none; color: #000000; transition: none; font-weight: 700; text-transform: uppercase; }
 .dtl-bed-hd a .icn-star { display: inline-block; float: left; margin: 7px 5px 0px 0px; width: 20px; height: 18px; background: url('../images/icn_star.png') no-repeat 0px 0px; }
 .dtl-bed-hd a:hover, .dtl-bed-hd a.active { color: #e72330; }
