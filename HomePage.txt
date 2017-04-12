@@ -6,3 +6,5 @@ Changes by Bhavik at 11:32
 
 Contet Added by PK FROM at 11:35
 
+When switching branches, if you have local modifications to one or more files that are different between the current branch and the branch to which you are switching, the command refuses to switch branches in order to preserve your modifications in context. However, with this option, a three-way merge between the current branch, your working tree contents, and the new branch is done, and you will be on the new branch.
+
